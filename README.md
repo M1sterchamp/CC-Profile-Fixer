@@ -1,3 +1,5 @@
+## THIS IS CURRENTLY ONLY WORKING FOR TRUCKERSMP MAP UPDATES **ONLY**. IT IS NOT YET TESTED WITH FULL GAME VERSION UPDATES!!
+
 # CC Profile Fixer
 
 When Euro Truck Simulator 2 shows **"content change detected"** after an update, it moves every truck to a safe spot, re-attaches parked trailers and wipes the GPS route. You'd normally have to load and re-save every save, and still lose all of that.
